@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="repo/org.apache.pdfbox/pdfbox/2.0.0-RC2/71d23aaaacf3e054b17b9c104ba6c71c4326dc98/pdfbox-2.0.0-RC2.jar" sourcepath="repo/org.apache.pdfbox/pdfbox/2.0.0-RC2/2d8c692a851817b5bb8e34c2443055106f10c814/pdfbox-2.0.0-RC2-sources.jar"/>
+	<classpathentry kind="lib" path="repo/commons-logging/commons-logging/1.2/4bfc12adfe4842bf07b657f0369c4cb522955686/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="repo/org.apache.pdfbox/fontbox/2.0.0-RC2/40229c481b4e6db4d9cb2faaf0a2d736b0b394f3/fontbox-2.0.0-RC2.jar"/>
+	<classpathentry kind="output" path="src"/>
+</classpath>
